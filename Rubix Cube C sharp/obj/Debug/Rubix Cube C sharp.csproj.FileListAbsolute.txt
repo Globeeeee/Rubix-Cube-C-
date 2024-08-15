@@ -1,0 +1,22 @@
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\bin\Debug\Rubix Cube C sharp.exe.config
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\bin\Debug\Rubix Cube C sharp.exe
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\bin\Debug\Rubix Cube C sharp.pdb
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.csproj.AssemblyReference.cache
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix_Cube_C_sharp.Form1.resources
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix_Cube_C_sharp.Properties.Resources.resources
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.csproj.GenerateResource.cache
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.csproj.CoreCompileInputs.cache
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.exe
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.pdb
+C:\Users\Legecy\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix_Cube_C_sharp.Form2.resources
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\bin\Debug\Rubix Cube C sharp.exe.config
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\bin\Debug\Rubix Cube C sharp.exe
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\bin\Debug\Rubix Cube C sharp.pdb
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.csproj.AssemblyReference.cache
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix_Cube_C_sharp.Form1.resources
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix_Cube_C_sharp.Form2.resources
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix_Cube_C_sharp.Properties.Resources.resources
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.csproj.GenerateResource.cache
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.csproj.CoreCompileInputs.cache
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.exe
+C:\Users\ProBook\OneDrive\Desktop\Rubix Cube C sharp\Rubix Cube C sharp\obj\Debug\Rubix Cube C sharp.pdb
